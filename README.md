@@ -8,4 +8,7 @@ Then, you must create the exe file from the make file.
 
 Finally, you can run the simulator and watch as the operating system runs!
 
+## License
+
 License: MIT - Permissive License
+
